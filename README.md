@@ -8,6 +8,4 @@
 
 在baseline基础上改成从每篇文章抽取一个答案，增加[r-net](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf)的核心层：self-matching
 
-改动基于baseline的tensorflow版本
 
-比赛总结详见[这篇文章](http://zedom1.top/2018/05/22/RC_DuReader/)
